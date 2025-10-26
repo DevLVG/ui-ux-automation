@@ -1,0 +1,11 @@
+# MICRO APP 2: Video Generator
+# Requirements
+
+# Browser automation & video recording
+playwright>=1.40.0
+
+# Async support
+asyncio>=3.4.3
+
+# Utils
+python-dateutil>=2.8.0

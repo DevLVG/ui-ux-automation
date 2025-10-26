@@ -1,0 +1,12 @@
+# MICRO APP 3: UX Analyzer
+# Requirements
+
+# AI/ML
+anthropic>=0.18.0
+
+# Video/Image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Utils
+python-dateutil>=2.8.0

@@ -1,0 +1,12 @@
+# MICRO APP 1: URL Loader
+# Requirements
+
+# Excel processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Data validation
+validators>=0.22.0
+
+# Utils
+python-dateutil>=2.8.0
