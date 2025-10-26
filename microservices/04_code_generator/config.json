@@ -1,0 +1,29 @@
+{
+  "brand_source": "auto",
+  "industry": "saas",
+  "style": "modern",
+  
+  "canva_api_key": "",
+  "canva_brand_kit_id": "",
+  
+  "custom_design_system": {
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#60A5FA",
+      "accent": "#93C5FD",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444",
+      "text": "#1F2937",
+      "background": "#F9FAFB"
+    },
+    "fonts": {
+      "heading": "Inter",
+      "body": "Inter",
+      "weights": [400, 500, 600, 700]
+    },
+    "spacing": "8px",
+    "radius": "8px",
+    "style": "clean, modern, professional"
+  }
+}
